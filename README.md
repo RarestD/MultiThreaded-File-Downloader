@@ -16,12 +16,17 @@ a java MultiThreaded File Downloader
 
 
 
+#Prequisites
+- Java 21
+- Maven (Optional)
+
+
 
 # How To Run
 - Simple Way
   1. Open the target folder and run the Run App.bat
 - Normal
-  1. Go to the root folder and using maven clean package to the target folder
+  1. Go to the root folder and using maven clean package so it creates the target folder
   2. Open a Terminal and go into the target folder and insert
   3. java -jarMultiThreaded-Downloader-1.0-SNAPSHOT.jar
   4. and it should be good to go
