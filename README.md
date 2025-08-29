@@ -16,7 +16,7 @@ a java MultiThreaded File Downloader
 
 
 
-#Prequisites
+# Prequisites
 - Java 21
 - Maven (Optional)
 
