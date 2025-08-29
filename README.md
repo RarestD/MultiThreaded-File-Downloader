@@ -13,3 +13,12 @@ a java MultiThreaded File Downloader
 - Multiple Download at the same time
 - custom total threads so it can be changed manually
 - GUI implementation
+
+
+# How To Run
+- Simple Way
+  1. Open the target folder and run the Run App.bat
+- Normal
+  1. Go to the root folder and using maven clean package to the target folder
+  2. Open a Terminal and go into the target folder and insert
+  3. java -jar MultiThreaded
