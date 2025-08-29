@@ -1,0 +1,7 @@
+rare\prod\service\FileDownloader.class
+rare\prod\util\FileType.class
+rare\prod\service\DownloaderTask.class
+rare\prod\service\ConfigManager.class
+rare\prod\util\ProgressBar.class
+rare\prod\util\Input.class
+rare\prod\MainApp.class
